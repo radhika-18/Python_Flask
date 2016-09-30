@@ -1,0 +1,31 @@
+{% extends "shellpage.html" %}
+{% block content %}
+    <a class="btn btn-primary" disabled role="button" >Add news</a>
+    <a class="btn btn-primary" href="./admin/modifynews" role="button">Modify news</a>
+    <a class="btn btn-primary" href="./admin/deletenews" role="button">Delete news</a>
+    <div class="row">
+        <div class="col-md-2">
+        </div>
+        <div class="col-md-8">
+            <form action="127.0.0.1:5000/admin/addnews" method="POST">
+                <div class="form-group">
+                    <label for="newsCategory">Category</label>
+                        <select name="newsCategory"  class="form-control" id="newsCategory">
+                            {% for section in category %}
+                                <option value="{{section}}">{{ section }}</option>
+                            {% endfor %}
+                        </select>
+                </div>
+                <div class="form-group">
+                    <label for="newsItem">News Item</label>
+                        <input type="text" name="newsItem"  class="form-control" id="newsItem">
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">Add news</button>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-2">
+        </div>
+    </div>
+{% endblock %}

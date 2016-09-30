@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2645f7ca-19ff-4fc7-b240-e7187cba3a24" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/git.xml" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.project" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.settings/.jsdtscope" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.settings/org.eclipse.wst.common.component" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/Home.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/Search.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/font-awesome.min-1.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/normalize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/searchbar.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/templatemo-misc.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/templatemo-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/linecons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/linecons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/linecons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/linecons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/revicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/revicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/revicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/revicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/bike1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/bike2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/car1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/car2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/furniture1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/furniture2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/gallery-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/gallery-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/gallery-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/gallery-image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/gallery-image-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/grabbing.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/logo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/marq1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/marq2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/marq3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/marq4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/mobile1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/mobile2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/pet1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/pet2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/products/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/products/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/products/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/products/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/shirt1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/tm-170x80-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/tm-170x80-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/Categories.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/jquery.easing-1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/register.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/vendor/jquery-1.10.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/vendor/jquery.gmap3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/vendor/modernizr-2.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.project" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.settings/.jsdtscope" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.settings/org.eclipse.wst.common.component" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/Buy.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/Categories.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/Home.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/help1.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/bike1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/bike2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/car1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/car2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/furniture1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/furniture2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/logo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/marq1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/marq2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/marq3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/marq4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/mobile1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/mobile2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/pet1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/pet2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/shirt1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/register.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/submit_ad.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/submit_ad.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/terms_of_use.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/withoutbootstrap/WebContent/radhika.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/iNB_banking/js/INB.js" afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/iNB_banking/js/INB.js" />
+    </list>
+    <ignored path="pythonsqlite.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="pythonsqlite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="StudentData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/withpatterns/StudentData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentDao.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/withpatterns/StudentDao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="studentmanagement.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/withpatterns/studentmanagement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/withpatterns/templates/student.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/standardcode/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbConnection.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/withpatterns/DbConnection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/connectdb.py" />
+        <option value="$PROJECT_DIR$/createtable.py" />
+        <option value="$PROJECT_DIR$/addingvalues.py" />
+        <option value="$PROJECT_DIR$/displayrecirds.py" />
+        <option value="$PROJECT_DIR$/usingcursor/mydb.db" />
+        <option value="$PROJECT_DIR$/usingcursor/connectdb.py" />
+        <option value="$PROJECT_DIR$/usingcursor/createtable.py" />
+        <option value="$PROJECT_DIR$/usingconnection/addingvalues.py" />
+        <option value="$PROJECT_DIR$/usingconnection/connectdb.py" />
+        <option value="$PROJECT_DIR$/usingconnection/createtable.py" />
+        <option value="$PROJECT_DIR$/usingconnection/displayrecirds.py" />
+        <option value="$PROJECT_DIR$/usingcursor/addrecords.py" />
+        <option value="$PROJECT_DIR$/usingcursor/fetchingusingpythonvar.py" />
+        <option value="$PROJECT_DIR$/usingcursor/displya records.py" />
+        <option value="$PROJECT_DIR$/standardcode/070FlaskSQLLite.py" />
+        <option value="$PROJECT_DIR$/withpatterns/StudentData.py" />
+        <option value="$PROJECT_DIR$/withpatterns/templates/student.html" />
+        <option value="$PROJECT_DIR$/withpatterns/studentmanagement.py" />
+        <option value="$PROJECT_DIR$/withpatterns/StudentDao.py" />
+        <option value="$PROJECT_DIR$/withpatterns/DbConnection.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="2" />
+    <option name="width" value="1374" />
+    <option name="height" value="748" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="withpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="withpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usingcursor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usingconnection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonsqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="standardcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyCart.com" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nair_r\PycharmProjects\pythonsqlite\withpatterns" />
+      <recent name="C:\Users\nair_r\PycharmProjects\pythonsqlite\standardcode" />
+      <recent name="C:\Users\nair_r\PycharmProjects\pythonsqlite\usingcursor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nair_r\PycharmProjects\pythonsqlite\usingconnection" />
+      <recent name="C:\Users\nair_r\PycharmProjects\pythonsqlite\usingdirectconnection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.DbConnection">
+    <configuration default="false" name="fetchingusingpythonvar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/usingcursor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/usingcursor/fetchingusingpythonvar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="displya records" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/usingcursor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/usingcursor/displya records.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="070FlaskSQLLite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/standardcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/standardcode/070FlaskSQLLite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="studentmanagement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/withpatterns" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/withpatterns/studentmanagement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DbConnection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/withpatterns" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/withpatterns/DbConnection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonsqlite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.fetchingusingpythonvar" />
+      <item index="1" class="java.lang.String" itemvalue="Python.displya records" />
+      <item index="2" class="java.lang.String" itemvalue="Python.070FlaskSQLLite" />
+      <item index="3" class="java.lang.String" itemvalue="Python.studentmanagement" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DbConnection" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.studentmanagement" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DbConnection" />
+        <item index="2" class="java.lang.String" itemvalue="Python.070FlaskSQLLite" />
+        <item index="3" class="java.lang.String" itemvalue="Python.displya records" />
+        <item index="4" class="java.lang.String" itemvalue="Python.fetchingusingpythonvar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2645f7ca-19ff-4fc7-b240-e7187cba3a24" name="Default" comment="" />
+      <created>1475038263921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475038263921</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="2" width="1374" height="748" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30307466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/usingdirectconnection/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingcursor/mydb.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingcursor/createtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingconnection/addingvalues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingconnection/connectdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingconnection/createtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingconnection/displayrecirds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingcursor/connectdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingcursor/fetchingusingpythonvar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="65" selection-start-line="16" selection-start-column="0" selection-end-line="20" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standardcode/templates/student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingcursor/addrecords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usingcursor/displya records.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/withpatterns/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standardcode/templates/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standardcode/templates/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydb.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standardcode/test.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standardcode/070FlaskSQLLite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/withpatterns/templates/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standardcode/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/withpatterns/StudentData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/withpatterns/templates/student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/withpatterns/StudentDao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/withpatterns/studentmanagement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/withpatterns/DbConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

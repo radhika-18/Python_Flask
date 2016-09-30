@@ -1,0 +1,5 @@
+    {% for key1,value1 in news.items() %}
+            {% for key2,value2 in value1.items() %}
+                <li><a href = "{{ value2 }}">{{ value2 }}</a> </li>
+                {% endfor %}
+        {% endfor %}

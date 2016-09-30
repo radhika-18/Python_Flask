@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<link>
+    <meta charset="UTF-8">
+    <title>My Cart.com</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
+</head>
+<body>
+     <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <div class="row">
+                    <center>
+                        <a>
+                        <img class="display-3" src="{{ url_for('static', filename = 'logo.png') }}" height="200px" weight="200px">
+                        </a>
+                        </img>
+                    </center>
+                </div>
+            </div>
+        </div>
+    <div class="row">
+        <div class="col-md-3">
+            <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                {% for category in category %}
+                    <li >
+                        <a href="/getProducts/{{category}}">{{category}}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+        </div>
+        <div class="col-md-6">
+            {% block content %}{% endblock %}
+        </div>
+        <div class="col-md-3">
+        </div>
+    </div>
+</body>
+</html>

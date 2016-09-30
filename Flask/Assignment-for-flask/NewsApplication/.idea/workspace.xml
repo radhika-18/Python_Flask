@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ece0f61e-7744-46b5-85de-852efd0bc016" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/git.xml" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.project" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.settings/.jsdtscope" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.settings/org.eclipse.wst.common.component" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/Home.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/Search.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/font-awesome.min-1.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/normalize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/searchbar.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/templatemo-misc.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/css/templatemo-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/linecons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/linecons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/linecons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/linecons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/revicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/revicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/revicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/fonts/revicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/bike1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/bike2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/car1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/car2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/featured/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/furniture1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/furniture2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/gallery-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/gallery-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/gallery-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/gallery-image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/gallery-image-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/grabbing.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/logo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/marq1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/marq2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/marq3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/marq4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/mobile1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/mobile2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/pet1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/pet2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/products/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/products/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/products/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/products/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/shirt1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/tm-170x80-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/images/tm-170x80-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/Categories.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/jquery.easing-1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/register.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/vendor/jquery-1.10.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/vendor/jquery.gmap3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/MRP-Group1-with bootstrap/WebContent/js/vendor/modernizr-2.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyCart.com/mycart.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.project" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.settings/.jsdtscope" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.settings/org.eclipse.wst.common.component" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/Buy.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/Categories.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/Home.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/help1.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/bike1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/bike2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/car1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/car2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/furniture1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/furniture2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/logo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/marq1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/marq2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/marq3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/marq4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/mobile1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/mobile2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/pet1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/pet2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/images/shirt1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/register.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/submit_ad.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/submit_ad.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/MRP-Group1-without bootstrap/WebContent/terms_of_use.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/withoutbootstrap/WebContent/radhika.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/iNB_banking/js/INB.js" afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/iNB_banking/js/INB.js" />
+    </list>
+    <ignored path="FlaskExample.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FlaskExample" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Admin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsApplication/templates/User.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="renderHtml.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsApplication/renderHtml.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shellpage.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewsApplication/templates/shellpage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestingFlask.py" />
+        <option value="$PROJECT_DIR$/NewsApplication/template/Home.html" />
+        <option value="$PROJECT_DIR$/NewsApplication/sample" />
+        <option value="$PROJECT_DIR$/NewsApplication/templates/DeleteNews.html" />
+        <option value="$PROJECT_DIR$/NewsApplication/templates/Addnews.html" />
+        <option value="$PROJECT_DIR$/NewsApplication/templates/ModifyNews.html" />
+        <option value="$PROJECT_DIR$/FlaskTraining/100Session/100SessionDemo.py" />
+        <option value="$PROJECT_DIR$/NewsApplication/templates/Login.html" />
+        <option value="$PROJECT_DIR$/NewsApplication/templates/Admin.html" />
+        <option value="$PROJECT_DIR$/NewsApplication/templates/User.html" />
+        <option value="$PROJECT_DIR$/NewsApplication/renderHtml.py" />
+        <option value="$PROJECT_DIR$/NewsApplication/templates/Home.html" />
+        <option value="$PROJECT_DIR$/NewsApplication/templates/shellpage.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="748" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nair_r\PycharmProjects\FlaskExample" />
+      <recent name="C:\Users\nair_r\PycharmProjects\FlaskExample\NewsApplication\static" />
+      <recent name="C:\Users\nair_r\PycharmProjects\FlaskExample\NewsApplication\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.renderHtml">
+    <configuration default="false" name="TestingFlask" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestingFlask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="renderHtml" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NewsApplication" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewsApplication/renderHtml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="061HelloTemplate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/060Template" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/060Template/061HelloTemplate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="100SessionDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlaskTraining/100Session" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlaskTraining/100Session/100SessionDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in FlaskExample" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
+      <option name="TEST_TYPE" value="TEST_FOLDER" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskExample" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.TestingFlask" />
+      <item index="1" class="java.lang.String" itemvalue="Python.renderHtml" />
+      <item index="2" class="java.lang.String" itemvalue="Python.061HelloTemplate" />
+      <item index="3" class="java.lang.String" itemvalue="Python.100SessionDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in FlaskExample" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.renderHtml" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in FlaskExample" />
+        <item index="2" class="java.lang.String" itemvalue="Python.100SessionDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Python.061HelloTemplate" />
+        <item index="4" class="java.lang.String" itemvalue="Python.TestingFlask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ece0f61e-7744-46b5-85de-852efd0bc016" name="Default" comment="" />
+      <created>1474879254055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1474879254055</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_FlaskExample - 2016.09.27 at 14h 12m 30s.xml">
+      <configuration name="Unittests in FlaskExample" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="748" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/User.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/renderHtml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/shellpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/User.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/renderHtml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/User.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/renderHtml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/User.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/renderHtml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/User.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/renderHtml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/060Template/templates/hello.html" />
+    <entry file="file://$PROJECT_DIR$/060Template/060HelloTemplate.py" />
+    <entry file="file://$PROJECT_DIR$/060Template/061HelloTemplate.py" />
+    <entry file="file://$PROJECT_DIR$/060Template/templates/hello.html" />
+    <entry file="file://$PROJECT_DIR$/NewsApplication/static/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/static/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/sample">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingFlask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/DeleteNews.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/ModifyNews.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Addnews.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlaskTraining/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/FlaskTraining/090Cookies/templates/readcookie.html" />
+    <entry file="file://$PROJECT_DIR$/FlaskTraining/090Cookies/090Cookies.py" />
+    <entry file="file://$PROJECT_DIR$/FlaskTraining/090Cookies/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/FlaskTraining/080FormData/templates/table.html" />
+    <entry file="file://$PROJECT_DIR$/FlaskTraining/080FormData/080student.html" />
+    <entry file="file://$PROJECT_DIR$/FlaskTraining/080FormData/080HelloFormData.py" />
+    <entry file="file://$PROJECT_DIR$/FlaskTraining/070StaticFiles/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/FlaskTraining/070StaticFiles/070HelloStaticFile.py" />
+    <entry file="file://$PROJECT_DIR$/FlaskTraining/100Session/100SessionDemo.py" />
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/User.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/renderHtml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApplication/templates/shellpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

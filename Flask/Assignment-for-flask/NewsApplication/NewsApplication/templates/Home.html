@@ -1,0 +1,10 @@
+{% extends "shellpage.html" %}
+{% block content %}
+    {% if 'username' not  in session %}
+        <a role="button" href="./login" class="btn btn-primary btn-lg">Login</a>
+    {% else %}
+        <a role="button" href="./login" class="btn btn-primary btn-lg">Welcome {{session['username']}}</a>
+        <a role="button" href="/logout" class="btn btn-primary btn-lg">Logout</a>
+    {% endif %}
+
+{% endblock %}

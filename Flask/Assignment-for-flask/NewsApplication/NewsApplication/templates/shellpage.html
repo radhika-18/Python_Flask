@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+     <meta charset="UTF-8">
+     <link rel="stylesheet" href="{{ url_for('static', filename = 'bootstrap.min.css') }}">
+     <link rel="stylesheet" href="{{ url_for('static', filename = 'bootstrap.css') }}">
+     <title>Home</title>
+    {% endblock %}
+
+</head>
+<body>
+    <header>
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <div class="row">
+                    <center>
+                        <a>
+                        <img class="display-3" src="{{ url_for('static', filename = 'logo.png') }}" height="200px" weight="200px">
+                        </a>
+                        </img>
+                    </center>
+
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="row">
+            <div class="col-md-3">
+            </div>
+            <div class="col-md-6">
+                {% block content %}{% endblock %}
+            </div>
+            <div class="col-md-3">
+            </div>
+    </div>
+</body>
+</html>
